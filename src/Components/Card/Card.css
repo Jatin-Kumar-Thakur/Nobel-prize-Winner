@@ -1,0 +1,33 @@
+.card{
+    padding: 20px;
+    width: 350px;
+    height: 200px;
+    background-color: #95e2f9b9;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.card hr{
+    margin: 5px 0;
+}
+.card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-header h3{
+    text-transform: capitalize;
+}
+.card-header p{
+    background-color: gray;
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+.person-name p{
+    color: rgba(255, 255, 255, 0.769);
+}
+.price-for{
+    margin: 10px 0;
+}
+.price-for p{
+    margin: 5px 0;
+}

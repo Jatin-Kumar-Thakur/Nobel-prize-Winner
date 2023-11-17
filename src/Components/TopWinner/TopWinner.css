@@ -1,0 +1,23 @@
+.winner-container {
+    color: aliceblue;
+    padding: 0 3%;
+}
+
+.winner-container h1 {
+    text-decoration: underline;
+}
+
+.winner-name {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 0;
+    flex-wrap: wrap;
+}
+.winner-name p{
+    background-color: #95e2f9b9;
+    padding: 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
